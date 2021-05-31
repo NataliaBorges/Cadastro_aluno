@@ -1,0 +1,3 @@
+Lia;22/11/2022;Evadido;GS384738;Ana@gmail.com;89232;829452;Informática;
+Natalia Borges da Silva;19/12/2000;matriculado;CJ3003833;natalia@gmail.com;54326896850;591588900;Analise e desenvolvimento de sistemas;
+Luiz;22/03/1990;concluido;luiz@aluno.com;CH823974;46679659833;38775652;Analise e desenvolvimento de sistemas;

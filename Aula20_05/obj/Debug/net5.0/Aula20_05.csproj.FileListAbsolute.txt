@@ -1,0 +1,32 @@
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.exe
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.deps.json
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.runtimeconfig.json
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.runtimeconfig.dev.json
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.dll
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\bin\Debug\net5.0\ref\Aula20_05.dll
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.pdb
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.csprojAssemblyReference.cache
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.AssemblyInfoInputs.cache
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.AssemblyInfo.cs
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.csproj.CoreCompileInputs.cache
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.dll
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\obj\Debug\net5.0\ref\Aula20_05.dll
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.pdb
+C:\Users\marqu\source\repos\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.genruntimeconfig.cache
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.exe
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.deps.json
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.runtimeconfig.json
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.runtimeconfig.dev.json
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.dll
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\bin\Debug\net5.0\ref\Aula20_05.dll
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\bin\Debug\net5.0\Aula20_05.pdb
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.csprojAssemblyReference.cache
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.AssemblyInfo.cs
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.dll
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\obj\Debug\net5.0\ref\Aula20_05.dll
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.pdb
+C:\Users\User\Documents\Estudos\Faculdade\4º Semestre\Linguagem de Programação II\Aula20_05\Aula20_05\obj\Debug\net5.0\Aula20_05.genruntimeconfig.cache
